@@ -1,0 +1,14 @@
+.heading{
+    width: 15vw;
+    margin: auto;
+    padding: 10px;
+    color: azure;
+}
+.tour-section{
+    
+    width: 100vw;
+    height: 100vh;
+    margin: 10px;
+    display: flex;
+   
+}

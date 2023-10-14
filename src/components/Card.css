@@ -1,0 +1,42 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    border-style: solid;
+    border: 1px solid azure;
+    border-radius: 10px;
+    margin: 20px;
+    background-color: azure;
+    width: 20vw;
+}
+.city-image{
+    padding: 10px;
+    
+}
+.button{
+    width: 250px;
+    margin: auto;
+    font-weight: bold;
+    padding: 7px;
+    font-size: 1.3rem;
+    border-radius: 5px;
+    border: 1px;
+}
+.city-info{
+    font-weight: 450;
+    font-size: 1.2rem;
+    margin: auto;
+    padding: 5px;
+}
+.city-price{
+    text-align: left;
+    margin-left: 13px;
+    color: green;
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
+.city-name{
+    text-align: left;
+    margin-left: 13px;
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
